@@ -1,7 +1,3 @@
-Here's a sample README file for your Online Voting System project:
-
----
-
 # Online Voting System
 
 This project is an Online Voting System built using the MERN stack (MongoDB, Express, React, Node.js) and styled with Tailwind CSS. It provides a secure and user-friendly platform for conducting online elections.
